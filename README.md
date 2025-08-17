@@ -34,3 +34,7 @@ Dynamic KPIs powered by DAX
 User-friendly layout for decision-making
 
 Helps businesses track sales health, customer behavior, and retention trends
+
+## Raw Dataset - https://github.com/Kailash-chowdhury/Shopify_Store_Analysis-Power-BI-/blob/main/Shopify%20Sales.xlsx
+## Dashboard - 
+## Dashboard Preview - 
