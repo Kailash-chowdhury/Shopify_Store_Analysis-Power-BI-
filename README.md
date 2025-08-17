@@ -36,5 +36,6 @@ User-friendly layout for decision-making
 Helps businesses track sales health, customer behavior, and retention trends
 
 ## Raw Dataset - <a href= "https://github.com/Kailash-chowdhury/Shopify_Store_Analysis-Power-BI-/blob/main/Shopify%20Sales.xlsx">Dataset</a>
-## Dashboard - 
-## Dashboard Preview - 
+## BI Dashboard - <a href= "https://github.com/Kailash-chowdhury/Shopify_Store_Analysis-Power-BI-/blob/main/Shopify%20Dashboard.pbix">Dataset</a>
+## Dashboard Preview - <img width="903" height="493" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/f7505781-5642-418a-98b1-f400204931a6" />
+
